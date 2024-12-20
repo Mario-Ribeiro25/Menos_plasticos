@@ -7,3 +7,4 @@ Power Point
 
 ![Imagem Principal](Tarefa1.png)
 
+[Download do PDF](Menos_Plastico.pdf)
