@@ -5,4 +5,5 @@ Recursos utilizados
 Copilot
 Power Point
 
-Tarefa1.png
+![Imagem Principal](Tarefa1.png)
+
